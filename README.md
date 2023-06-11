@@ -1,6 +1,6 @@
 # Olá
 
-<p align="left"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="400" /> </p>
+<p align="rigth"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="400" /> </p>
 
 
 :books: Estudando na Desenvolvendo.me
