@@ -1,16 +1,13 @@
 # Olá
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/victoroliveira59/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<p align="left"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="400" /> </p>
+
 
 :books: Estudando na Desenvolvendo.me
 
 :books: Cursando Eng. de Software
 
 :computer: Me tornando um desenvolvedor **backend**.
-
-
-
-
 
 ### Conecte-se a mim
 
