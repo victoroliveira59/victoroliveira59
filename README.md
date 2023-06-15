@@ -12,7 +12,7 @@
 
 <p align="midlle"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="300"  /> </p>
 
-### Conecte-se a mim
+### Follow me
 
 <div>
 
@@ -23,7 +23,7 @@
 <img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
-### Hard skills
+### I'm learning
 
 <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
 <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
