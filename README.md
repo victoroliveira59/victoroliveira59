@@ -1,6 +1,6 @@
 # Olá
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 :books: Estudando na Desenvolvendo.me
 
