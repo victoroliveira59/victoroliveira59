@@ -29,7 +29,7 @@
 <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a> 
 <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a> 
 <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a> 
-<a href="https://stackshare.io/rubyonrails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rubyonrails/rubyonraila-original.svg" alt="rubyonrails" width="40" height="40" /></a> 
+<a href="https://stackshare.io/ruby-on-rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby-on-rails/ruby-on-rails-original.svg" alt="ruby-on-rails" width="40" height="40" /></a> 
 
 </p>
 <hr>
