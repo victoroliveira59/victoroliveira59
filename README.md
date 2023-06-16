@@ -23,7 +23,7 @@
 <img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
-### I'm learning
+## I'm learning
 
 <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
 <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
