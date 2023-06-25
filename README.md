@@ -1,6 +1,6 @@
 # Hi, i'm Victor Oliveira
 
-
+<a href="https://wakatime.com/@7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e"><img src="https://wakatime.com/badge/user/7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e.svg" alt="Total time coded since Jun 7 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
