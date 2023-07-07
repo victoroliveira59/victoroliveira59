@@ -10,7 +10,7 @@
 
 :computer: Me tornando um desenvolvedor **backend**.
 
-<p align="midlle"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="300"  /> </p>
+<p align="midlle"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="400"  /> </p>
 
 ## Follow me
 
