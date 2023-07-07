@@ -12,14 +12,14 @@
 
 <p align="midlle"> <img src="https://hermes.digitalinnovation.one/articles/cover/7d407b40-57ea-433a-aa6f-4c64d13f6aec.jpg" alt="victoroliveira59" width="300"  /> </p>
 
-### Follow me
+## Follow me
 
 <div>
 
 [![Linkedin](https://img.shields.io/badge/Victor_Oliveira-%230077B5.svg?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-785116195/) 
 [![Card](https://img.shields.io/badge/Repositório-%230077B5.svg?&logo=github&logoColor=black&color=B8B8B8)](https://github.com/victoroliveira59?tab=repositories)
 
-
+## performance 
 <img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 
 <figure><embed src="https://wakatime.com/share/@victoroliveira59/577250ff-c531-4422-8460-95ebbf816615.svg"></embed></figure
