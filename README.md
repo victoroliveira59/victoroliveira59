@@ -23,7 +23,7 @@
 
 <img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 
-<img heigth="180em" src="https://wakatime.com/share/@victoroliveira59/577250ff-c531-4422-8460-95ebbf816615.svg"></embed></figure>
+<img heigth="100em" src="https://wakatime.com/share/@victoroliveira59/577250ff-c531-4422-8460-95ebbf816615.svg"></embed></figure>
 
 <a href="https://wakatime.com/@7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e"><img src="https://wakatime.com/badge/user/7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e.svg" alt="Total time coded since Jun 7 2023" /></a>
 
