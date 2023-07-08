@@ -21,7 +21,7 @@
 
 ## Performance 
 
-<img heigth="180em" src= "https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
+![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
 <img heigth="100em" src="https://wakatime.com/share/@victoroliveira59/577250ff-c531-4422-8460-95ebbf816615.svg"></embed></figure>
 
