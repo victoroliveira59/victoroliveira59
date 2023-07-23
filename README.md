@@ -2,7 +2,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
+<!--suppress ALL -->
+<p alignt="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 :books: Estudando Ruby
 
@@ -17,19 +18,19 @@
 
 <h3>Projects</h3>
 <table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	        <td><b>Projects</b></td>
-	        <td><b>Skills</b></td>
-            <td><b>Stars</b></td>
-            <td><b>Forks</b></td>
-            <td><b>Issues</b></td>
-            <td><b>Pull requests</b></td>
+    <thead>
+        <tr align="center">
+            <th>Id</th>
+            <th>Projects</th>
+            <th>Skills</th>
+            <th>Stars</th>
+            <th>Forks</th>
+            <th>Issues</th>
+            <th>Pull requests</th>
         </tr>
     </thead>
     <tbody>
-	<tr>
+	    <tr>
 		<td>1</td>
             	<td><a href="https://github.com/victoroliveira59/curso__ruby"><b>curso__ruby</b></a></td>
 		<td>Developer</td>
@@ -38,23 +39,18 @@
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/curso__ruby" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/curso__ruby" /></td>
         </tr>
-	 <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/victoroliveira59/fixation_exercise"><b>fixation_exercise</b></a></td>
+            	<td><a href="https://github.com/victoroliveira59/Algorithms_phase_1"><b>Algorithms_phase_1</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/fixation_exercise" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/fixation_exercise" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/fixation_exercise" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/fixation_exercise" /></td>
-        </tr>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/Algorithms_phase_1" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/Algorithms_phase_1" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/Algorithms_phase_1" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/Algorithms_phase_1" /></td>
     </tbody>
 </table>
 
-
-
- 
 # 📊 Performance 
-![](https://github-readme-stats.vercel.app/api?username=victorliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
