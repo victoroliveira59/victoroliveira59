@@ -2,7 +2,7 @@
 
 
 
-<p alignt="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juliasil&color=yellow" alt="Profile views" /> </p>
 
 :books: Estudando Ruby
 
@@ -17,7 +17,7 @@
 
 <h3>Projects</h3>
 <table>
-    <thead alignt="center">
+    <thead align="center">
         <tr border: none;>
             <td><b>Id</b></td>
 	        <td><b>Projects</b></td>
@@ -50,8 +50,11 @@
     </tbody>
 </table>
 
+
+
+ 
 # 📊 Performance 
-![](https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=victorliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
