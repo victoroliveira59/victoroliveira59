@@ -40,12 +40,12 @@
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/curso__ruby" /></td>
         </tr>
 		<td>2</td>
-            	<td><a href="https://github.com/victoroliveira59/Algorithms_phase_1"><b>Algorithms_phase_1</b></a></td>
+            	<td><a href="https://github.com/victoroliveira59/Desenvolvendo_me_"><b>Desenvolvendo_me_</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/Algorithms_phase_1" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/Algorithms_phase_1" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/Algorithms_phase_1" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/Algorithms_phase_1" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/Desenvolvendo_me_" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/Desenvolvendo_me_" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/Desenvolvendo_me_" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/Desenvolvendo_me_" /></td>
     </tbody>
 </table>
 
