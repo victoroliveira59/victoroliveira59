@@ -50,9 +50,9 @@
 </table>
 
 # 📊 Performance 
-![](https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=blue-green&hide_border=true)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 <a href="https://wakatime.com/@7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e"><img src="https://wakatime.com/badge/user/7c9ca4f0-00a0-4a46-a2d3-9cdaf1def02e.svg" alt="Total time coded since Jun 7 2023" /></a>
 
