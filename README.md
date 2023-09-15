@@ -30,8 +30,17 @@
         </tr>
     </thead>
     <tbody>
+        <tr></tr>
+        <td>1</td>
+                <td><a href="https://github.com/victoroliveira59/Desenvolvendo_me_"><b>blog_rails</b></a></td>
+		<td>Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/blog_rails" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/blog_rails" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/blog_rails" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/blog_rails" /></td>
+        </tr>
 	    <tr>
-		<td>1</td>
+		<td>2</td>
             	<td><a href="https://github.com/victoroliveira59/curso__ruby"><b>curso__ruby</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/curso__ruby" /></td>
@@ -39,13 +48,15 @@
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/curso__ruby" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/curso__ruby" /></td>
         </tr>
-		<td>2</td>
+        <tr>
+		<td>3</td>
             	<td><a href="https://github.com/victoroliveira59/Desenvolvendo_me_"><b>Desenvolvendo_me_</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/Desenvolvendo_me_" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/Desenvolvendo_me_" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/Desenvolvendo_me_" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/Desenvolvendo_me_" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/Desenvolvendo_me_" /></td> 
+        </tr>
     </tbody>
 </table>
 
