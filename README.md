@@ -13,7 +13,7 @@
 
 <div>
 
-[![Linkedin](https://img.shields.io/badge/Victor_Oliveira-%230077B5.svg?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-785116195/) 
+[![Linkedin](https://img.shields.io/badge/Victor_Oliveira-%230077B5.svg?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oliveira-785116195/)
 [![Card](https://img.shields.io/badge/Repositório-%230077B5.svg?&logo=github&logoColor=black&color=B8B8B8)](https://github.com/victoroliveira59?tab=repositories)
 
 <h3>Projects</h3>
@@ -30,7 +30,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr></tr>
+        <tr>
         <td>1</td>
                 <td><a href="https://github.com/victoroliveira59/Desenvolvendo_me_"><b>blog_rails</b></a></td>
 		<td>Developer</td>
@@ -60,7 +60,7 @@
     </tbody>
 </table>
 
-# 📊 Performance 
+# 📊 Performance
 ![](https://github-readme-stats.vercel.app/api?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -70,14 +70,12 @@
 ## I'm learning
 
 <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-<a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
-<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a> 
-<a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a> 
-<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a> 
-<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a> 
+<a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+<a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
+<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
 <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
 
-
-</p>
 <hr>
 </div>
