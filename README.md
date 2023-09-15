@@ -32,7 +32,7 @@
     <tbody>
         <tr>
         <td>1</td>
-                <td><a href="https://github.com/victoroliveira59/Desenvolvendo_me_"><b>blog_rails</b></a></td>
+                <td><a href="https://github.com/victoroliveira59/blog_rails"><b>blog_rails</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/blog_rails" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/blog_rails" /></td>
