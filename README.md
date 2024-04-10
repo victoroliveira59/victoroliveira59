@@ -32,12 +32,12 @@
     <tbody>
         <tr>
         <td>1</td>
-                <td><a href="https://github.com/victoroliveira59/blog_rails"><b>blog_rails</b></a></td>
+                <td><a href="https://github.com/victoroliveira59/tech_publisher"><b>Tech Publisher</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/blog_rails" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/blog_rails" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/blog_rails" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/blog_rails" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/victoroliveira59/tech_publisher" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/victoroliveira59/tech_publisher" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/victoroliveira59/tech_publisher" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/victoroliveira59/tech_publisher" /></td>
         </tr>
 	    <tr>
 		<td>2</td>
