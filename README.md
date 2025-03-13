@@ -17,8 +17,9 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angualar"  width="40" height="40"/>
 </p>
 
 ---
@@ -41,17 +42,25 @@
       <td>1</td>
       <td><a href="https://github.com/victoroliveira59/tech_publisher"><b>Tech Publisher</b></a></td>
       <td>Uma plataforma de publicação de artigos.</td>
-      <td>C#, ASP.NET Core</td>
+      <td>Ruby on Rails Portgres Tailwind</td>
       <td><img src="https://img.shields.io/github/stars/victoroliveira59/tech_publisher" /></td>
       <td><img src="https://img.shields.io/github/forks/victoroliveira59/tech_publisher" /></td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/victoroliveira59/curso__ruby"><b>Curso Ruby</b></a></td>
-      <td>Projetos de estudo e aprendizado em Ruby.</td>
+      <td><a href="https://github.com/victoroliveira59/APICatalogo"><b>Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9) </b></a></td>
+      <td>Curso sobre API em .NET </td>
       <td>Ruby, Rails</td>
-      <td><img src="https://img.shields.io/github/stars/victoroliveira59/curso__ruby" /></td>
-      <td><img src="https://img.shields.io/github/forks/victoroliveira59/curso__ruby" /></td>
+      <td><img src="https://img.shields.io/github/stars/victoroliveira59/APICatalogo" /></td>
+      <td><img src="https://img.shields.io/github/forks/victoroliveira59/APICatalogo" /></td>
+    </tr>
+     <tr>
+      <td>1</td>
+      <td><a href="https://github.com/victoroliveira59/Portifolio-VictorOliveira"><b>Portifólio - Victor Oliveira</b></a></td>
+      <td> Portifolio do meu perfil </td>
+      <td>HTML JS CSS</td>
+      <td><img src="https://img.shields.io/github/forks/victoroliveira59/Portifolio-VictorOliveira" /></td>
+      <td><img src="https://img.shields.io/github/forks/victoroliveira59/Portifolio-VictorOliveira" /></td>
     </tr>
   </tbody>
 </table>
