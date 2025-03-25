@@ -50,7 +50,7 @@
       <td>2</td>
       <td><a href="https://github.com/victoroliveira59/APICatalogo"><b>Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9) </b></a></td>
       <td>Curso sobre API em .NET </td>
-      <td>Ruby, Rails</td>
+      <td>C# .NET </td>
       <td><img src="https://img.shields.io/github/stars/victoroliveira59/APICatalogo" /></td>
       <td><img src="https://img.shields.io/github/forks/victoroliveira59/APICatalogo" /></td>
     </tr>
