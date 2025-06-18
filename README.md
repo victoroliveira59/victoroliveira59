@@ -84,6 +84,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Victor_Oliveira-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:victorsamueloliveira59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-victor.oliveira@example.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-victorsamueloliveira59@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
