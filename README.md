@@ -20,5 +20,3 @@ The profile page (`profile.html`) is structured to display:
 
 -   `profile.html`: The main HTML file for the profile page.
 -   `style.css`: The CSS file containing styles for `profile.html`.
-
-This is a basic scaffold and can be extended with more features, dynamic data loading, and advanced styling.
