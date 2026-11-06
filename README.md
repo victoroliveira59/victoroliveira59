@@ -6,7 +6,7 @@
 
 💻 Desenvolvedor Backend focado em **.NET**.
 🎯 Apaixonado por criar soluções escaláveis e resolver problemas complexos.
-🌱 Atualmente aprimorando habilidades em **C#, ASP.NET Core, Entity Framework e Azure**.
+🌱 Atualmente aprimorando habilidades em **C#, ASP.NET Core, Entity Framework, Arquitetura Limpa e Azure**.
 
 ---
 
@@ -19,48 +19,57 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angualar"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" />
 </p>
 
 ---
 
-## 📂 Projects
+## 📂 Projetos Mais Ativos (Últimos 3 Meses)
 
 <table>
   <thead>
     <tr align="center">
       <th>ID</th>
-      <th>Project</th>
-      <th>Description</th>
+      <th>Projeto</th>
+      <th>Descrição</th>
       <th>Tech Stack</th>
-      <th>Stars</th>
-      <th>Forks</th>
+      <th>Status / Atividade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td><a href="https://github.com/victoroliveira59/tech_publisher"><b>Tech Publisher</b></a></td>
-      <td>Uma plataforma de publicação de artigos.</td>
-      <td>Ruby on Rails Portgres Tailwind</td>
-      <td><img src="https://img.shields.io/github/stars/victoroliveira59/tech_publisher" /></td>
-      <td><img src="https://img.shields.io/github/forks/victoroliveira59/tech_publisher" /></td>
+      <td><a href="https://github.com/victoroliveira59/OradorPro"><b>OradorPro</b></a> 🌐</td>
+      <td>Sistema web para gestão de oradores e reuniões com integração automatizada de mensagens via WhatsApp e arquitetura AI Agent Harness.</td>
+      <td>C# • ASP.NET Core MVC • WhatsApp • Clean Architecture</td>
+      <td>
+        <img src="https://img.shields.io/github/stars/victoroliveira59/OradorPro" />
+        <br />
+        <img src="https://img.shields.io/badge/Atividade-34%20commits-brightgreen" />
+      </td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/victoroliveira59/APICatalogo"><b>Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9) </b></a></td>
-      <td>Curso sobre API em .NET </td>
-      <td>C# .NET </td>
-      <td><img src="https://img.shields.io/github/stars/victoroliveira59/APICatalogo" /></td>
-      <td><img src="https://img.shields.io/github/forks/victoroliveira59/APICatalogo" /></td>
+      <td><b>CRM Multi-Tenant</b> 🔒</td>
+      <td>Solução de CRM corporativo com Clean Architecture, controle de múltiplos inquilinos (Tenant Context), APIs RESTful e painel TypeScript.</td>
+      <td>C# • .NET • TypeScript • Clean Architecture • Docker</td>
+      <td>
+        <img src="https://img.shields.io/badge/Acesso-Privado-orange" />
+        <br />
+        <img src="https://img.shields.io/badge/Atividade-72%20commits-brightgreen" />
+      </td>
     </tr>
-     <tr>
+    <tr>
       <td>3</td>
-      <td><a href="https://github.com/victoroliveira59/Portifolio-VictorOliveira"><b>Portifólio - Victor Oliveira</b></a></td>
-      <td> Portifolio do meu perfil </td>
-      <td>HTML JS CSS</td>
-      <td><img src="https://img.shields.io/github/forks/victoroliveira59/Portifolio-VictorOliveira" /></td>
-      <td><img src="https://img.shields.io/github/forks/victoroliveira59/Portifolio-VictorOliveira" /></td>
+      <td><b>FlowOrder</b> 🔒</td>
+      <td>Plataforma de gestão e fluxo de pedidos com automação e painel administrativo moderno.</td>
+      <td>C# • .NET • TypeScript • JavaScript Automation</td>
+      <td>
+        <img src="https://img.shields.io/badge/Acesso-Privado-orange" />
+        <br />
+        <img src="https://img.shields.io/badge/Atividade-29%20commits-brightgreen" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -83,7 +92,7 @@
   <a href="https://www.linkedin.com/in/victor-oliveira-785116195/">
     <img src="https://img.shields.io/badge/LinkedIn-Victor_Oliveira-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:victor.oliveira@example.com">
-    <img src="https://img.shields.io/badge/Email-victor.oliveira@example.com-red?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto:victorsamueloliveira59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victorsamueloliveira59@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
