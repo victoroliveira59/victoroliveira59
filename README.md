@@ -109,13 +109,31 @@ Atualmente projeto e construo:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub & Conquistas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoroliveira59&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+  <!-- Troféus de Conquistas -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=victoroliveira59&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+  </p>
+
+  <!-- Métricas Principais -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=victoroliveira59&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoroliveira59&theme=tokyonight&hide_border=true" alt="Victor's Streak Stats" height="180" />
+  </p>
+
+  <!-- Top Linguagens -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroliveira59&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </p>
+
+  <!-- Gráfico de Atividade Recente -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=victoroliveira59&theme=tokyo-night&hide_border=true&area=true" alt="Victor's Activity Graph" width="100%" />
+  </p>
+
 </div>
 
 ---
